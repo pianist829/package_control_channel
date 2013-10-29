@@ -190,6 +190,16 @@
 			]
 		},
 		{
+			"name": "FileHeader",
+			"details": "https://github.com/shiyanhui/FileHeader",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/shiyanhui/fileheader/tags"
+				}
+			]
+		},
+		{
 			"name": "FileOpTabContextMenu",
 			"details": "https://github.com/sigsergv/SublimeFileOpTabContextMenu",
 			"releases": [
@@ -354,6 +364,16 @@
 				{
 					"sublime_text": "*",
 					"details": "https://github.com/MarkMichos/firecode-theme"
+				}
+			]
+		},
+		{
+			"name": "Fis",
+			"details": "https://github.com/yuanfang829/fis-sublime-command",
+			"releases": [
+				{
+					"sublime_text": "<=3000",
+					"details": "https://github.com/yuanfang829/fis-sublime-command/tree/master"
 				}
 			]
 		},
